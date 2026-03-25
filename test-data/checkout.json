@@ -1,0 +1,31 @@
+{
+  "validUsers": [
+    {
+      "firstName": "Orkide",
+      "lastName": "Tokyay",
+      "postalCode": "12345"
+    },
+    {
+      "firstName": "Ahmet",
+      "lastName": "Yılmaz",
+      "postalCode": "67890"
+    }
+  ],
+  "missingFields": [
+    {
+      "firstName": "",
+      "lastName": "Tokyay",
+      "postalCode": "12345"
+    },
+    {
+      "firstName": "Orkide",
+      "lastName": "",
+      "postalCode": "12345"
+    },
+    {
+      "firstName": "Orkide",
+      "lastName": "Tokyay",
+      "postalCode": ""
+    }
+  ]
+}
