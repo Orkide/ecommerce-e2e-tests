@@ -4,7 +4,7 @@ This project contains end-to-end (E2E) tests for an e-commerce web application u
 
 
 # My Project
-![GitHub Actions](https://github.com/Orkide/ecommerce-e2e-tests/blob/main/.github/workflows/ci.yml)
+[![GitHub Actions](https://github.com/Orkide/ecommerce-e2e-tests/actions/workflows/ci.yml/badge.svg)](https://github.com/Orkide/ecommerce-e2e-tests/actions/workflows/ci.yml)
 
 
 ## Project Structure
